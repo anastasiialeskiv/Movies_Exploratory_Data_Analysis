@@ -1,3 +1,8 @@
+# Movie Analysis
+Author: Anastasiia Leskiv
+
+![film-production-company](https://user-images.githubusercontent.com/124845922/234446061-e6ce9409-c938-4b67-a049-977ed40db9ec.jpg)
+
 # Business Understanding
 The goal of this project is to use data to deliver analysis to my client(Microsoft). Microsoft wants to know what types of films are currently doing the best at the box office.After I worked with data, I built a visual presentation to show 3 recommendations for creating a successful movie. I want to show what would be the best type of films to create. I want to investigate the average budget, duration,language and genres to make future predictions and recommendations for my client. Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. I am charged with exploring what types of films are currently doing the best at the box office.
 # Data Understanding
@@ -45,6 +50,10 @@ To make a successful movie my recomendations are to follow:
 ## Next Steps
 My next step in the development of this topic would be finding more information about directors and writers.
 
+# For more information 
+For any questions, please contact Anastasiia Leskiv at prokopivanastasiia@gmail.com or https://www.linkedin.com/in/anastasiia-leskiv-684b4b250/
+
+## Repository Structure
 
 ├── README.md                        
 ├── Anastasiia_Leskiv_Phase1_notebook .ipynb                         
