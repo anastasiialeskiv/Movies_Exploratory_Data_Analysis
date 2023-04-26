@@ -15,6 +15,7 @@ SQLite for data ingestion and extraction
 Seaborn for visualization
 
 # Exploratory Data Analysis
+<img width="996" alt="Runtime" src="https://user-images.githubusercontent.com/124845922/234437082-9b6ecbe9-479a-49f2-a8ae-bbc54a49e68c.png">
 
 # Conclusion
 After doing this data analysis I came out with some very interesting facts about movies. I found out what the average budget, duration,language,genre should be. What are the top 5 popular movies, what made them successful. I analyze the top 3 most profitable movies and year in this dataset. All this information helped me to make recommendations to my client what criteria should Microsoft follow to make a successful movie. If follow all the recommendations, the average worldwide gross should be around 91 million dollars and domestic profit around 41 million dollars.
