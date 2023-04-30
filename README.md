@@ -40,12 +40,17 @@ After doing this data analysis I came out with some very interesting facts about
 ## Limitation
 I wish I had some more information about actors so I could decide who should be in the movie. Because as we know actors are a very important criteria of the movie.
 
-## Recomendations
-To make a successful movie my recomendations are to follow:
--The average budget around 31 million USD. 
--Average duration of 104 minutes.
+## Recommendations
+To make a successful movie my recommendations are to follow:
+
+ -The average budget around 31 million USD.
+
+ -Average duration of 104 minutes.
+
 -English language
--Genres: Action, Adventure, Comedy ,Drama,Family,Fiction or Triller.
+
+ -Genres: Action, Adventure, Comedy ,Drama,Family,Fiction or Triller.
+
 
 ## Next Steps
 My next step in the development of this topic would be finding more information about directors and writers.
