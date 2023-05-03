@@ -34,6 +34,14 @@ The most profitable year in our dataset
 These graph shows that most of the movies are in English language
 <img width="815" alt="Language" src="https://user-images.githubusercontent.com/124845922/234442707-63abc3e1-8925-4a0c-ab37-ef51d5b28e2d.png">
 
+In this table I want to show Top 5 movies based on popularity. Here we can see number of popularity which is number of how many people liking the movie. I wanted to find what would be the best language and genre to produse to make popular and successful movie. 
+
+![popular movies](https://user-images.githubusercontent.com/124845922/235777377-c9301af0-11a6-4b05-8119-363f5c1ee026.png)
+
+In this table I want to show Top 3 most profitable movies. Here we can see number of domestic gross and foreign gross. I wanted to find what would be the best language and genre to produse to make profitable and successful movie. 
+
+![top 3 profit](https://user-images.githubusercontent.com/124845922/235777905-1c576763-c629-476a-b2aa-a25001d94565.png) 
+
 # Conclusion
 After doing this data analysis I came out with some very interesting facts about movies. I found out what the average budget, duration,language,genre should be. What are the top 5 popular movies, what made them successful. I analyze the top 3 most profitable movies and year in this dataset. All this information helped me to make recommendations to my client what criteria should Microsoft follow to make a successful movie. If follow all the recommendations, the average worldwide gross should be around 91 million dollars and domestic profit around 41 million dollars.
 
